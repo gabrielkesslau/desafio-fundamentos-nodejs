@@ -1,4 +1,3 @@
-import { request } from 'express';
 import TransactionsRepository from '../repositories/TransactionsRepository';
 import Transaction from '../models/Transaction';
 
